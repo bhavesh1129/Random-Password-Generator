@@ -5,7 +5,6 @@ Link of the Project:https://bhavesh1129.github.io/Random-Password-Generator/
 Developers:Bhavesh Garg,Isheta Bansal and Nandini Gupta
 
 In today’s world, when every thing ranging from social media to bank transactions are online, there is a need to protect one’s privacy and security. 
-
 Password protection is provided by each website or portal we visit today but it is important that the password not be something that can be easily decoded.
 A strong password should consist of:
 i.	Uppercase letters
