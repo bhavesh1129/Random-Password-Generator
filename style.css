@@ -1,0 +1,409 @@
+    /* .......................RPG............................ */
+    
+    .btn {
+        border: none;
+        color: #fff;
+        cursor: pointer;
+        font-size: 16px;
+        padding: 8px 12px;
+        background-color: #3B3B98;
+        float: right;
+        margin-right: 10px;
+        margin-top: 10px;
+        height: 30px;
+    }
+    
+    body {
+        color: white;
+        background-image: url('img2.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    checkbox {
+        cursor: pointer;
+        align-items: center;
+    }
+    
+    h3 {
+        font-family: Skranji;
+        font-size: medium;
+    }
+    
+    .customSwitch1 {
+        cursor: pointer;
+        background-color: black;
+    }
+    
+    input:checked+.slider {
+        background-color: black;
+    }
+    
+    .length__title {
+        font-family: recursive;
+        font-size: small;
+    }
+    
+    .settings__title {
+        font-family: recursive;
+        font-size: small;
+    }
+    
+    .custom-control-label {
+        cursor: pointer;
+    }
+    
+    .custom-control-input {
+        float: left;
+        cursor: pointer;
+    }
+    
+    .container {
+        text-align: center;
+        border: 2px solid black;
+        width: 268px;
+        height: 449px;
+        border-radius: 10px;
+        background-color: paleturquoise;
+    }
+    
+    .innerborder {
+        background-color: rgb(8, 8, 63);
+        text-align: center;
+        border: 2px solid black;
+        width: 225px;
+        height: 380px;
+        border-radius: 10px;
+        margin: 2px;
+        padding: 2px;
+        margin-left: 5px;
+        margin-top: 15px;
+    }
+    
+    #slider {
+        background: black;
+        pointer-events: stroke;
+        cursor: pointer;
+    }
+    
+    .newsettings {
+        text-align: left;
+    }
+    
+    .check {
+        cursor: pointer;
+        font-family: recursive;
+        font-size: smaller;
+        color: black;
+        background-image: linear-gradient(rgb(124, 79, 214), paleturquoise);
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.45), 0 4px 8px rgba(0, 0, 0, 0.35), 0 8px 12px rgba(0, 0, 0, 0.15);
+    }
+    
+    .button1 {
+        margin-top: 8px;
+        color: white;
+    }
+    
+    button {
+        background-image: linear-gradient(rgb(8, 8, 63), rgb(124, 79, 214));
+        border-radius: 10px;
+        font-family: recursive;
+        color: white;
+        border: 1px solid rgb(8, 8, 63);
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.45), 0 4px 8px rgba(0, 0, 0, 0.35), 0 8px 12px rgba(0, 0, 0, 0.15);
+    }
+    /* ........................PROJECT......................................... */
+    
+    .home {
+        background-image: url('b1.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    .head {
+        font-size: 40px;
+        font-weight: bold;
+        color: black;
+        text-align: center;
+        font-family: rowdies;
+    }
+    
+    .para {
+        margin: 30px;
+        color: white;
+        font-weight: bold;
+        font-family: recursive;
+        font-size: 15px;
+        text-shadow: 2px 2px black;
+    }
+    
+    ul {
+        font-size: 15px;
+        color: white;
+        font-weight: 800;
+        margin-top: -30px;
+        font-family: recursive;
+        margin-left: 8px;
+        margin-bottom: -30px;
+        text-shadow: 2px 2px black;
+    }
+    /* ...........................BTC......................................... */
+    
+    .fa-fire-alt {
+        color: #e25822;
+    }
+    
+    h4 {
+        margin-top: 20px;
+    }
+    
+    p {
+        font-size: small;
+    }
+    
+    i {
+        color: white;
+    }
+    
+    i:hover {
+        color: rgb(90, 221, 90);
+    }
+    
+    .cards-container {
+        width: 100%;
+        height: 300px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    
+    .cards-inner1 {
+        width: 250px;
+        height: 250px;
+    }
+    
+    .cards-inner2 {
+        width: 250px;
+        height: 250px;
+    }
+    
+    .cards-inner3 {
+        width: 250px;
+        height: 250px;
+    }
+    
+    .card1,
+    .card2,
+    .card3 {
+        width: 100%;
+        height: 100%;
+        transition: transform 0.7s ease-in-out;
+        transform-style: preserve-3d;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    }
+    
+    .cards-inner1:hover .card1 {
+        transform: rotateY(180deg);
+    }
+    
+    .cards-inner2:hover .card2 {
+        transform: rotateY(180deg);
+    }
+    
+    .cards-inner3:hover .card3 {
+        transform: rotateY(180deg);
+    }
+    
+    .card1 figure {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        margin: 0;
+        justify-content: center;
+        text-align: center;
+        flex-direction: column;
+    }
+    
+    .card1 .front {
+        background: url("isheta.jpeg");
+        background-repeat: repeat;
+        background-size: cover;
+        color: white;
+        width: 250px;
+        height: 250px;
+        backface-visibility: hidden;
+    }
+    
+    .card1 .back {
+        background: black;
+        color: white;
+        font-family: recursive;
+        font-weight: bolder;
+        transform: rotateY(180deg);
+        font-size: 20px;
+        backface-visibility: hidden;
+    }
+    
+    .card2 figure {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        margin: 0;
+        justify-content: center;
+        text-align: center;
+        flex-direction: column;
+    }
+    
+    .card2 .front {
+        background-image: url("bhavesh.jpg");
+        background-repeat: repeat;
+        background-size: cover;
+        background-position: center;
+        color: white;
+        text-align: center;
+        backface-visibility: hidden;
+    }
+    
+    .card2 .back {
+        background: black;
+        color: white;
+        font-family: recursive;
+        font-weight: bolder;
+        transform: rotateY(180deg);
+        font-size: 20px;
+        backface-visibility: hidden;
+    }
+    
+    .card3 figure {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        margin: 0;
+        justify-content: center;
+        text-align: center;
+        flex-direction: column;
+    }
+    
+    .card3 .front {
+        background-image: url("nandini.jpeg");
+        background-repeat: repeat;
+        background-size: cover;
+        color: white;
+        text-align: center;
+        backface-visibility: hidden;
+    }
+    
+    .card3 .back {
+        background: black;
+        color: white;
+        font-family: recursive;
+        font-weight: bolder;
+        font-size: 20px;
+        transform: rotateY(180deg);
+        backface-visibility: hidden;
+    }
+    /* ....................................TYPIST FOR PROJECT............................. */
+    
+    .type-container {
+        position: relative;
+        font-size: 1.8rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #line {
+        position: relative;
+        font-size: 45px;
+        font-weight: bold;
+        font-family: rowdies;
+        color: white;
+        text-shadow: 4px 4px black;
+    }
+    
+    .cursor {
+        height: 2rem;
+        width: 2px;
+        margin-left: 2px;
+        animation: blinkTextCursor 800ms infinite;
+    }
+    
+    @keyframes blinkTextCursor {
+        from {
+            opacity: 1;
+        }
+        to {
+            opacity: 0;
+        }
+    }
+    /* ............................TYPIST FOR BTC............................... */
+    /* .bb {
+        border-right: solid 3px rgba(0, 255, 0, .75);
+        white-space: nowrap;
+        overflow: hidden;
+        margin: 0 auto;
+        color: white;
+    }
+    
+    .head {
+        border-right: solid 3px rgba(0, 255, 0, .75);
+        white-space: nowrap;
+        overflow: hidden;
+        margin: 0 auto;
+        color: white;
+    }
+    
+    .bb {
+        animation: animated-text 4s steps(29, end) 1s 1 normal both, animated-cursor 600ms steps(29, end) infinite;
+    }
+    
+    @keyframes animated-text {
+        from {
+            width: 0;
+        }
+        to {
+            width: 472px;
+        }
+    }
+    
+    @keyframes animated-cursor {
+        from {
+            border-right-color: rgba(0, 255, 0, .75);
+        }
+        to {
+            border-right-color: transparent;
+        }
+    } */
+    /* .................................FOOTER.................................. */
+    
+    footer {
+        margin-bottom: 0px;
+        /* background-image: url('xx.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover; */
+    }
+    
+    .fa-heart {
+        color: red;
+    }
+    
+    .py-3 {
+        margin-top: 0px;
+        font-family: rowdies;
+        text-shadow: 2px 2px black;
+    }
+    
+    .copy {
+        margin-left: 40%;
+        font-family: rowdies;
+        text-shadow: 2px 2px black;
+    }
+    /* ..................................TOP BUTTON............................... */
+    
+    .fa-arrow-circle-up:hover {
+        color: rgb(26, 104, 221);
+    }
