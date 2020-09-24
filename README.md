@@ -2,7 +2,7 @@
 
 **Link of the Project:https://bhavesh1129.github.io/Random-Password-Generator/**
 
-<img src="https://github.com/bhavesh1129/Random-Password-Generator/blob/master/Image.PNG" width="600" height="500">
+<img src="https://github.com/bhavesh1129/Random-Password-Generator/blob/master/Image.PNG" width="700" height="500">
 
 **_Developers:Bhavesh Garg,Isheta Bansal and Nandini Gupta_**
 
