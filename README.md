@@ -11,6 +11,7 @@ A strong password should consist of:_
 *	Lowercase letters
 * Numbers
 *	Symbols 
+
 _More often than not, we don’t make an effort to think of a difficult password and end up using our phone numbers or birth dates as one. 
 This does nothing except making our online profiles, bank account information etc. unsafe and easy to hack.
 To provide a hassle-free solution to this, we have created this Random Password Generator. 
