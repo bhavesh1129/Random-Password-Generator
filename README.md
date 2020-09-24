@@ -1,6 +1,6 @@
 # Random-Password-Generator
 
-Link of the Project:https://bhavesh1129.github.io/Random-Password-Generator/
+**Link of the Project:https://bhavesh1129.github.io/Random-Password-Generator/**
 
 **_Developers:Bhavesh Garg,Isheta Bansal and Nandini Gupta_**
 
