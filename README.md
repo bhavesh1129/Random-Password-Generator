@@ -1,5 +1,3 @@
-# Random-Password-Generator
-
 **Link of the Project:https://bhavesh1129.github.io/Random-Password-Generator/**
 
 <img src="https://github.com/bhavesh1129/Random-Password-Generator/blob/master/Image.PNG" width="700" height="500">
