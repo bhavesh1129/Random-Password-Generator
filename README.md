@@ -2,7 +2,7 @@
 
 **Link of the Project:https://bhavesh1129.github.io/Random-Password-Generator/**
 
-<img src="https://github.com/bhavesh1129/Random-Password-Generator/blob/master/Image.PNG" width="600" height="600">
+<img src="https://github.com/bhavesh1129/Random-Password-Generator/blob/master/Image.PNG" width="600" height="500">
 
 **_Developers:Bhavesh Garg,Isheta Bansal and Nandini Gupta_**
 
@@ -23,3 +23,5 @@ All one has to do now is to click on the ‘Generate Password’ button located 
 The user will be provided with a password in a fraction of seconds. 
 This password will also be available for the user to copy from our site without any trouble. 
 The user can generate as many passwords as he/she wants to ensure the safety of his/her profiles in the virtual world._
+
+**_Do :star: this repo if you like it_**
