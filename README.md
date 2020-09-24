@@ -4,7 +4,7 @@
 
 <img src="https://github.com/bhavesh1129/Random-Password-Generator/blob/master/Image.PNG" width="700" height="500">
 
-**_Developers:@Bhavesh Garg,Isheta Bansal and Nandini Gupta_**
+**_Developers:@bhavesh1129,Isheta Bansal and Nandini Gupta_**
 
 _In today’s world, when every thing ranging from social media to bank transactions are online, there is a need to protect one’s privacy and security. 
 Password protection is provided by each website or portal we visit today but it is important that the password not be something that can be easily decoded.
