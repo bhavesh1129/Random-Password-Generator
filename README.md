@@ -2,6 +2,8 @@
 
 **Link of the Project:https://bhavesh1129.github.io/Random-Password-Generator/**
 
+<img src="https://github.com/bhavesh1129/Random-Password-Generator/blob/master/Image.PNG" width="600" height="600">
+
 **_Developers:Bhavesh Garg,Isheta Bansal and Nandini Gupta_**
 
 _In today’s world, when every thing ranging from social media to bank transactions are online, there is a need to protect one’s privacy and security. 
